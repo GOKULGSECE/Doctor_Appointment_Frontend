@@ -1,6 +1,16 @@
-# React + Vite
+# How to setup the Frontend 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Step-1
+git clone <the url provided in the above section> 
+run this in your terminal
+
+Step-2
+npm i 
+run this command in your destination folder
+
+step-3
+npm run dev 
+enjoy the show...
 
 Currently, two official plugins are available:
 
